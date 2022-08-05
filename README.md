@@ -26,6 +26,6 @@ const S1t0 =
 <a href="www.linkedin.com/in/andrés-garcía-sánchez-aa12b3228
 /" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
 
-<a href="andres_91gr@hotmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />csalvadordiaz689@gmail.com</a>
+<a href="andres_91gr@hotmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />andres_91gr@hotmail.com</a>
 
 
