@@ -13,7 +13,6 @@ const S1t0 = {
     "technology lover"
     }
 
-
 }
 
 - 📫 How to reach me: ...
