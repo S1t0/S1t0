@@ -1,6 +1,8 @@
 ### Hi,I'm Andres Garcia, 
 
-### currently i'm learning web development, I recently discovered the world of development and became passionate about it.👋
+### Currently i'm learning web development, I recently discovered the world of development and became passionate about it.👋
+
+###  Actively seeking employment
 
 
 
@@ -17,6 +19,8 @@ const S1t0 =
     "teamwork",
     "technology lover"
     }
+
+
 
 
 
