@@ -8,7 +8,7 @@
 const S1t0 =
 
     skills learning: ["Javascript", "Python", "Java", "Html", "Css", "Git","Github","Sql"];
-    technologies learning:
+    technologies learning:{}
 
         backEnd:["Node", "Fastify"]
         frontEnd:["React"]
@@ -18,7 +18,7 @@ const S1t0 =
     "technology lover"
     }
 
-};
+
 
 - 📫 How to reach me: 
 
